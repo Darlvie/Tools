@@ -1,14 +1,14 @@
 Pod::Spec.new do |s|
 
   s.name         = "Tools"
-  s.version      = "1"
+  s.version      = "0.1.0"
   s.summary      = "Tools."
 
   s.description  = <<-DESC
                     this is Tools
                    DESC
 
-  s.homepage     = "https://github.com/Darlvie/Tools"
+  s.homepage     = "https://git.oschina.net/darlvie/tools"
 
   s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
 
@@ -22,9 +22,9 @@ Pod::Spec.new do |s|
   # s.watchos.deployment_target = "2.0"
   # s.tvos.deployment_target = "9.0"
 
-  s.source       = { :git => "git@github.com:Darlvie/Tools.git", :tag => s.version.to_s }
+  s.source       = { :git => "https://git.oschina.net/darlvie/tools.git", :tag => s.version.to_s }
 
-  s.source_files  = "Tools/Tools/**/*.{h,m}"
+  s.source_files  = "Tools/Tools/**/*"
   # s.exclude_files = "Classes/Exclude"
 
   # s.public_header_files = "Classes/**/*.h"

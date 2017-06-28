@@ -7,10 +7,10 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1B1ED7881F02073C00CF0ADE /* NSString+Base64.m in Sources */ = {isa = PBXBuildFile; fileRef = 1B1ED7801F02073C00CF0ADE /* NSString+Base64.m */; };
-		1B1ED7891F02073C00CF0ADE /* SXAdManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 1B1ED7821F02073C00CF0ADE /* SXAdManager.m */; };
-		1B1ED78A1F02073C00CF0ADE /* UILabel+Wonderful.m in Sources */ = {isa = PBXBuildFile; fileRef = 1B1ED7851F02073C00CF0ADE /* UILabel+Wonderful.m */; };
-		1B1ED78B1F02073C00CF0ADE /* UIView+Frame.m in Sources */ = {isa = PBXBuildFile; fileRef = 1B1ED7871F02073C00CF0ADE /* UIView+Frame.m */; };
+		1B1ED8101F022EEC00CF0ADE /* NSString+Base64.m in Sources */ = {isa = PBXBuildFile; fileRef = 1B1ED8081F022EEC00CF0ADE /* NSString+Base64.m */; };
+		1B1ED8111F022EEC00CF0ADE /* SXAdManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 1B1ED80A1F022EEC00CF0ADE /* SXAdManager.m */; };
+		1B1ED8121F022EEC00CF0ADE /* UILabel+Wonderful.m in Sources */ = {isa = PBXBuildFile; fileRef = 1B1ED80D1F022EEC00CF0ADE /* UILabel+Wonderful.m */; };
+		1B1ED8131F022EEC00CF0ADE /* UIView+Frame.m in Sources */ = {isa = PBXBuildFile; fileRef = 1B1ED80F1F022EEC00CF0ADE /* UIView+Frame.m */; };
 		9AA575E91C4B75F100343637 /* libPods-Tools.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 36950C25FC1AA9A243546C30 /* libPods-Tools.a */; };
 		CFD05A821E3AD0B500A76B72 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = CFD05A811E3AD0B500A76B72 /* main.m */; };
 		CFD05A851E3AD0B500A76B72 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = CFD05A841E3AD0B500A76B72 /* AppDelegate.m */; };
@@ -21,15 +21,15 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		1B1ED77F1F02073C00CF0ADE /* NSString+Base64.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "NSString+Base64.h"; path = "Tools/NSString+Base64.h"; sourceTree = SOURCE_ROOT; };
-		1B1ED7801F02073C00CF0ADE /* NSString+Base64.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "NSString+Base64.m"; path = "Tools/NSString+Base64.m"; sourceTree = SOURCE_ROOT; };
-		1B1ED7811F02073C00CF0ADE /* SXAdManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SXAdManager.h; path = Tools/SXAdManager.h; sourceTree = SOURCE_ROOT; };
-		1B1ED7821F02073C00CF0ADE /* SXAdManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SXAdManager.m; path = Tools/SXAdManager.m; sourceTree = SOURCE_ROOT; };
-		1B1ED7831F02073C00CF0ADE /* SXEasyMacro.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SXEasyMacro.h; path = Tools/SXEasyMacro.h; sourceTree = SOURCE_ROOT; };
-		1B1ED7841F02073C00CF0ADE /* UILabel+Wonderful.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "UILabel+Wonderful.h"; path = "Tools/UILabel+Wonderful.h"; sourceTree = SOURCE_ROOT; };
-		1B1ED7851F02073C00CF0ADE /* UILabel+Wonderful.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "UILabel+Wonderful.m"; path = "Tools/UILabel+Wonderful.m"; sourceTree = SOURCE_ROOT; };
-		1B1ED7861F02073C00CF0ADE /* UIView+Frame.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "UIView+Frame.h"; path = "Tools/UIView+Frame.h"; sourceTree = SOURCE_ROOT; };
-		1B1ED7871F02073C00CF0ADE /* UIView+Frame.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "UIView+Frame.m"; path = "Tools/UIView+Frame.m"; sourceTree = SOURCE_ROOT; };
+		1B1ED8071F022EEC00CF0ADE /* NSString+Base64.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "NSString+Base64.h"; path = "Tools/NSString+Base64.h"; sourceTree = SOURCE_ROOT; };
+		1B1ED8081F022EEC00CF0ADE /* NSString+Base64.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "NSString+Base64.m"; path = "Tools/NSString+Base64.m"; sourceTree = SOURCE_ROOT; };
+		1B1ED8091F022EEC00CF0ADE /* SXAdManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SXAdManager.h; path = Tools/SXAdManager.h; sourceTree = SOURCE_ROOT; };
+		1B1ED80A1F022EEC00CF0ADE /* SXAdManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = SXAdManager.m; path = Tools/SXAdManager.m; sourceTree = SOURCE_ROOT; };
+		1B1ED80B1F022EEC00CF0ADE /* SXEasyMacro.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = SXEasyMacro.h; path = Tools/SXEasyMacro.h; sourceTree = SOURCE_ROOT; };
+		1B1ED80C1F022EEC00CF0ADE /* UILabel+Wonderful.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "UILabel+Wonderful.h"; path = "Tools/UILabel+Wonderful.h"; sourceTree = SOURCE_ROOT; };
+		1B1ED80D1F022EEC00CF0ADE /* UILabel+Wonderful.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "UILabel+Wonderful.m"; path = "Tools/UILabel+Wonderful.m"; sourceTree = SOURCE_ROOT; };
+		1B1ED80E1F022EEC00CF0ADE /* UIView+Frame.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "UIView+Frame.h"; path = "Tools/UIView+Frame.h"; sourceTree = SOURCE_ROOT; };
+		1B1ED80F1F022EEC00CF0ADE /* UIView+Frame.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = "UIView+Frame.m"; path = "Tools/UIView+Frame.m"; sourceTree = SOURCE_ROOT; };
 		36950C25FC1AA9A243546C30 /* libPods-Tools.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-Tools.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		4867ECA33BA1C930E740D819 /* Pods-Tools.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Tools.debug.xcconfig"; path = "Pods/Target Support Files/Pods-Tools/Pods-Tools.debug.xcconfig"; sourceTree = "<group>"; };
 		7C67673C305BFBE0F1C8CDC1 /* Pods-Tools.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Tools.release.xcconfig"; path = "Pods/Target Support Files/Pods-Tools/Pods-Tools.release.xcconfig"; sourceTree = "<group>"; };
@@ -77,15 +77,15 @@
 		CF4DCC2D1E3AFCA400FDE632 /* Tools */ = {
 			isa = PBXGroup;
 			children = (
-				1B1ED77F1F02073C00CF0ADE /* NSString+Base64.h */,
-				1B1ED7801F02073C00CF0ADE /* NSString+Base64.m */,
-				1B1ED7811F02073C00CF0ADE /* SXAdManager.h */,
-				1B1ED7821F02073C00CF0ADE /* SXAdManager.m */,
-				1B1ED7831F02073C00CF0ADE /* SXEasyMacro.h */,
-				1B1ED7841F02073C00CF0ADE /* UILabel+Wonderful.h */,
-				1B1ED7851F02073C00CF0ADE /* UILabel+Wonderful.m */,
-				1B1ED7861F02073C00CF0ADE /* UIView+Frame.h */,
-				1B1ED7871F02073C00CF0ADE /* UIView+Frame.m */,
+				1B1ED8071F022EEC00CF0ADE /* NSString+Base64.h */,
+				1B1ED8081F022EEC00CF0ADE /* NSString+Base64.m */,
+				1B1ED8091F022EEC00CF0ADE /* SXAdManager.h */,
+				1B1ED80A1F022EEC00CF0ADE /* SXAdManager.m */,
+				1B1ED80B1F022EEC00CF0ADE /* SXEasyMacro.h */,
+				1B1ED80C1F022EEC00CF0ADE /* UILabel+Wonderful.h */,
+				1B1ED80D1F022EEC00CF0ADE /* UILabel+Wonderful.m */,
+				1B1ED80E1F022EEC00CF0ADE /* UIView+Frame.h */,
+				1B1ED80F1F022EEC00CF0ADE /* UIView+Frame.m */,
 			);
 			path = Tools;
 			sourceTree = "<group>";
@@ -256,13 +256,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1B1ED7881F02073C00CF0ADE /* NSString+Base64.m in Sources */,
+				1B1ED8101F022EEC00CF0ADE /* NSString+Base64.m in Sources */,
 				CFD05A881E3AD0B500A76B72 /* ViewController.m in Sources */,
 				CFD05A851E3AD0B500A76B72 /* AppDelegate.m in Sources */,
-				1B1ED78B1F02073C00CF0ADE /* UIView+Frame.m in Sources */,
-				1B1ED7891F02073C00CF0ADE /* SXAdManager.m in Sources */,
+				1B1ED8131F022EEC00CF0ADE /* UIView+Frame.m in Sources */,
+				1B1ED8111F022EEC00CF0ADE /* SXAdManager.m in Sources */,
 				CFD05A821E3AD0B500A76B72 /* main.m in Sources */,
-				1B1ED78A1F02073C00CF0ADE /* UILabel+Wonderful.m in Sources */,
+				1B1ED8121F022EEC00CF0ADE /* UILabel+Wonderful.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
